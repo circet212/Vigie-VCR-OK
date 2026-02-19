@@ -1,0 +1,5 @@
+{
+  "name": "Vigie VCR OK",
+  "description": "Automated analysis tool for FTTH technician interventions. Upload CSV/Excel files to generate agency-specific validation reports (Vigie).",
+  "requestFramePermissions": []
+}
